@@ -43,6 +43,10 @@ Access to real-time, structured weather data across multiple Indian cities is of
 - The system can scale to more cities or frequency with minimal changes.
 - Data in Snowflake can be used for analytics dashboards, time-series forecasting, anomaly detection, and reporting.
 
+- Below is a snapshot of the resulting data table:
+
+![Weather Data Screenshot](./Screenshot%202025-05-01%20203637.png)
+
 ---
 
 ## 🌐 Technologies Used
