@@ -45,7 +45,7 @@ Access to real-time, structured weather data across multiple Indian cities is of
 
 - Below is a snapshot of the resulting data table:
 
-![Weather Data Screenshot](./Screenshot%202025-05-01%20203637.png)
+![image alt](https://github.com/bhaktiayarekar22/Snowflake_Weather_Data_Pipeline_Project/blob/589379246acc46e249f9730f6f8c7b87a570e2a2/Screenshot%202025-05-01%20203637.png)
 
 ---
 
